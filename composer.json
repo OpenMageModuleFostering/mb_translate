@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/MB_Translate",
+    "name": "OpenMageModuleFostering\/MB_Translate",
     "type": "magento-module",
     "license": "public",
     "homepage": "",
-    "description": "CMS/Block translation",
+    "description": "CMS\/Block translation",
     "authors": [
-    {
-        "name": "Miguel Balparda",
-        "email": "development@starton.com.ar"
-    }
-],
+        {
+            "name": "Miguel Balparda",
+            "email": "development@starton.com.ar"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
